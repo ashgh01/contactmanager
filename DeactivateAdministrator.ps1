@@ -1,1 +1,1 @@
-﻿net user sbuxadmin /active:no
+﻿net user username /active:no
